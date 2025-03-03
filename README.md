@@ -1,16 +1,13 @@
-## Hi there 👋
+<samp>
+🛠️ Software Engineer in progress | 🌐 Cybersecurity Enthusiast | 💻 Developer  
+Currently diving into backend development and systems engineering.
 
-<!--
-**strakerbit/strakerbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Skills**:
+- **Languages:** JavaScript, Python, Java, PHP  
+- **Tools:** Linux, Git, SQL, WordPress, HTML, CSS  
 
-Here are some ideas to get you started:
+[![Twitter: strakerbit](https://img.shields.io/twitter/follow/strakerbit?style=social&color=black)](https://twitter.com/strakerbit)
+[![GitHub: strakerbit](https://img.shields.io/github/followers/strakerbit?label=follow&style=social&color=black)](https://github.com/strakerbit)
+<img src="https://komarev.com/ghpvc/?username=strakerbit&color=blueviolet" alt="Profile Views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</samp>
